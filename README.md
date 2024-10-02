@@ -35,12 +35,13 @@ My name is Vishnu Nair, and I'm currently pursuing a Master of Computer Applicat
 
 - **Frameworks:**  
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-  ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
 
 
 
+---
 
 ### 📫 Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/vishnu-nair-aa462b245)
-- [GitHub](https://github.com/Vishnu-comp)
-- [Email me](mailto:vishnunair2323@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/vishnu-nair-aa462b245) ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
+- [GitHub](https://github.com/Vishnu-comp) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+- [Email me](mailto:vishnunair2323@gmail.com) ![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)
+
