@@ -1,6 +1,9 @@
 ## 👋 Hello, I'm Vishnu Nair
 
-My name is Vishnu Nair, and I'm currently pursuing a Master of Computer Applications (MCA) at Christ University, Bangalore. Originally from Mumbai, I completed my Bachelor of Computer Applications (BCA) at Kristu Jayanti Autonomous College. I am deeply interested in becoming a full-stack developer and am always excited to learn and experiment with new tools, frameworks, and technologies to enhance my skills and knowledge in web development.
+Skilled Software Development Engineer / Full Stack Developer with expertise in building scalable, high-performance web 
+applications. Strong experience with React.js and Next.js for creating responsive, user-focused interfaces, and backend development 
+using Java, Python, and Node.js. Proven ability to optimize performance, reduce latency, build real-time solutions, and solve complex 
+edge cases while delivering clean, maintainable code.
 
 ---
 
